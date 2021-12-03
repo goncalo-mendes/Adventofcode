@@ -1,0 +1,15 @@
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/adventToCode
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/adventToCode.deps.json
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/adventToCode.runtimeconfig.json
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/adventToCode.dll
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/ref/adventToCode.dll
+/home/goncalo/Documents/adventToCode/bin/Debug/net6.0/adventToCode.pdb
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.csproj.AssemblyReference.cache
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.AssemblyInfoInputs.cache
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.AssemblyInfo.cs
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.csproj.CoreCompileInputs.cache
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.dll
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/ref/adventToCode.dll
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.pdb
+/home/goncalo/Documents/adventToCode/obj/Debug/net6.0/adventToCode.genruntimeconfig.cache
