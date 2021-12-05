@@ -1,0 +1,15 @@
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\Part2.exe
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\Part2.deps.json
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\Part2.runtimeconfig.json
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\Part2.dll
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\ref\Part2.dll
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\bin\Debug\net6.0\Part2.pdb
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.csproj.AssemblyReference.cache
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.AssemblyInfoInputs.cache
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.AssemblyInfo.cs
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.dll
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\ref\Part2.dll
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.pdb
+C:\Users\goncalo.mendes\RiderProjects\Adventofcode\Day 2\Part2\obj\Debug\net6.0\Part2.genruntimeconfig.cache
